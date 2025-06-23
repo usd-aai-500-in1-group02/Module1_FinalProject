@@ -6,7 +6,7 @@
 A comprehensive, AI-powered project designed to predict the likelihood of a stroke using medical and demographic data. This work emphasizes the importance of early risk detection, data quality, and model robustness, which are vital in proactive healthcare.
 
 
-## 🧠 Problem Statement
+## 📌 Problem Statement
 
 Stroke (ischemic or hemorrhagic) is a leading health concern exacerbated by lifestyle diseases and an aging population. Traditional models are limited by linear assumptions and poor handling of heterogeneous data.
 
