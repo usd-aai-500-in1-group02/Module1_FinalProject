@@ -77,7 +77,7 @@ Build an AI-powered pipeline that leverages patient demographics, medical histor
 
 
 ## 👥 Contributors
-1. Prashant Khare 
+1. Prashant Khare - https://github.com/sentinel1282
 2. Riyaz Khorasi - https://github.com/Riyazmk1995
 3. Sourangshu Pal - https://github.com/sourangshupal
 
