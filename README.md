@@ -1,4 +1,4 @@
-# 🧠 Heart Stroke Prediction using Machine Learning
+# 🧠 Stroke Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 
