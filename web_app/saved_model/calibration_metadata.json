@@ -1,0 +1,10 @@
+{
+  "calibration_method": "Isotonic",
+  "calibration_date": "2025-06-20T13:17:16.925414",
+  "original_ece": 0.39606906930268765,
+  "calibrated_ece": 0.0021038187517153145,
+  "ece_improvement": 0.3939652505509723,
+  "original_auc": 0.8125102880658437,
+  "calibrated_auc": 0.8092901234567902,
+  "calibration_method_details": "Isotonic Regression"
+}

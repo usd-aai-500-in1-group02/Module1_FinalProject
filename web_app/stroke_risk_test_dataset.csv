@@ -1,0 +1,104 @@
+patient_id, risk_category, age, gender, hypertension, heart_disease, ever_married, work_type    , Residence_type, avg_glucose_level, bmi , smoking_status , gender_male, gender_female, married
+LOW_001   , Low          ,  26, Female,            0,             0, No          , Private      , Urban         ,              93.1, 19.7, Unknown        ,           0,             1,       0
+LOW_002   , Low          ,  27, Female,            0,             0, No          , Govt_job     , Rural         ,              87.4, 19.5, never smoked   ,           0,             1,       0
+LOW_003   , Low          ,  38, Female,            0,             0, No          , Private      , Urban         ,              72.9, 21.4, never smoked   ,           0,             1,       0
+LOW_004   , Low          ,  40, Female,            0,             0, No          , Private      , Rural         ,              87.4, 23.0, Unknown        ,           0,             1,       0
+LOW_005   , Low          ,  41, Male  ,            0,             0, No          , Govt_job     , Rural         ,              71.6, 23.1, never smoked   ,           1,             0,       0
+LOW_006   , Low          ,  25, Male  ,            0,             0, Yes         , Private      , Rural         ,              70.0, 24.9, never smoked   ,           1,             0,       1
+LOW_007   , Low          ,  20, Female,            0,             0, No          , Private      , Rural         ,              78.8, 21.9, Unknown        ,           0,             1,       0
+LOW_008   , Low          ,  31, Male  ,            0,             0, Yes         , Govt_job     , Rural         ,              70.7, 21.9, never smoked   ,           1,             0,       1
+LOW_009   , Low          ,  29, Female,            0,             0, Yes         , Govt_job     , Rural         ,              71.4, 24.7, never smoked   ,           0,             1,       1
+LOW_010   , Low          ,  34, Male  ,            0,             0, No          , Private      , Urban         ,              83.2, 23.5, never smoked   ,           1,             0,       0
+LOW_011   , Low          ,  38, Male  ,            0,             0, No          , Private      , Rural         ,              81.1, 24.8, never smoked   ,           1,             0,       0
+LOW_012   , Low          ,  44, Male  ,            0,             0, Yes         , Private      , Rural         ,              71.3, 22.4, Unknown        ,           1,             0,       1
+LOW_013   , Low          ,  40, Male  ,            0,             0, No          , Govt_job     , Urban         ,              83.1, 18.6, Unknown        ,           1,             0,       0
+LOW_014   , Low          ,  44, Female,            0,             0, No          , Self-employed, Rural         ,              98.0, 23.7, never smoked   ,           0,             1,       0
+LOW_015   , Low          ,  28, Male  ,            0,             0, No          , Private      , Urban         ,              70.5, 20.0, Unknown        ,           1,             0,       0
+LOW_016   , Low          ,  34, Female,            0,             0, Yes         , Self-employed, Urban         ,              89.8, 22.4, Unknown        ,           0,             1,       1
+LOW_017   , Low          ,  27, Female,            0,             0, Yes         , Govt_job     , Rural         ,              71.0, 24.3, never smoked   ,           0,             1,       1
+LOW_018   , Low          ,  23, Male  ,            0,             0, Yes         , Self-employed, Urban         ,              75.3, 23.3, never smoked   ,           1,             0,       1
+LOW_019   , Low          ,  25, Female,            0,             0, Yes         , Govt_job     , Rural         ,              76.0, 22.1, Unknown        ,           0,             1,       1
+LOW_020   , Low          ,  37, Male  ,            0,             0, No          , Govt_job     , Rural         ,              92.5, 24.5, never smoked   ,           1,             0,       0
+LOW_021   , Low          ,  23, Female,            0,             0, No          , Private      , Urban         ,              87.3, 24.4, never smoked   ,           0,             1,       0
+LOW_022   , Low          ,  27, Male  ,            0,             0, No          , Self-employed, Rural         ,              86.5, 21.8, Unknown        ,           1,             0,       0
+LOW_023   , Low          ,  27, Male  ,            0,             0, No          , Govt_job     , Rural         ,              94.5, 23.3, never smoked   ,           1,             0,       0
+LOW_024   , Low          ,  34, Male  ,            0,             0, No          , Self-employed, Urban         ,              94.0, 20.8, Unknown        ,           1,             0,       0
+LOW_025   , Low          ,  32, Male  ,            0,             0, No          , Govt_job     , Urban         ,              74.1, 23.6, Unknown        ,           1,             0,       0
+MED_001   , Medium       ,  45, Female,            0,             1, No          , Private      , Urban         ,             100.6, 27.1, formerly smoked,           0,             1,       0
+MED_002   , Medium       ,  45, Male  ,            1,             0, No          , Self-employed, Rural         ,             107.9, 25.0, never smoked   ,           1,             0,       0
+MED_003   , Medium       ,  55, Female,            0,             0, No          , Govt_job     , Rural         ,             108.0, 28.5, never smoked   ,           0,             1,       0
+MED_004   , Medium       ,  47, Female,            0,             0, Yes         , Private      , Rural         ,             130.9, 25.4, smokes         ,           0,             1,       1
+MED_005   , Medium       ,  51, Female,            1,             0, No          , Self-employed, Rural         ,             126.0, 29.5, smokes         ,           0,             1,       0
+MED_006   , Medium       ,  53, Male  ,            1,             0, Yes         , Private      , Urban         ,             124.9, 26.6, never smoked   ,           1,             0,       1
+MED_007   , Medium       ,  60, Female,            0,             1, No          , Private      , Urban         ,             114.8, 28.3, smokes         ,           0,             1,       0
+MED_008   , Medium       ,  49, Female,            0,             0, No          , Self-employed, Urban         ,             129.2, 28.1, never smoked   ,           0,             1,       0
+MED_009   , Medium       ,  47, Male  ,            0,             1, No          , Private      , Rural         ,             118.9, 25.6, smokes         ,           1,             0,       0
+MED_010   , Medium       ,  58, Male  ,            0,             1, No          , Private      , Rural         ,             134.0, 28.5, never smoked   ,           1,             0,       0
+MED_011   , Medium       ,  58, Male  ,            1,             0, Yes         , Govt_job     , Urban         ,             119.8, 27.6, formerly smoked,           1,             0,       1
+MED_012   , Medium       ,  59, Male  ,            0,             0, Yes         , Private      , Urban         ,             104.4, 27.2, never smoked   ,           1,             0,       1
+MED_013   , Medium       ,  63, Female,            0,             1, Yes         , Self-employed, Rural         ,             101.3, 28.1, never smoked   ,           0,             1,       1
+MED_014   , Medium       ,  64, Male  ,            0,             0, No          , Govt_job     , Urban         ,             122.5, 28.4, never smoked   ,           1,             0,       0
+MED_015   , Medium       ,  49, Female,            0,             0, Yes         , Self-employed, Urban         ,             110.0, 27.0, formerly smoked,           0,             1,       1
+MED_016   , Medium       ,  55, Female,            1,             0, No          , Private      , Rural         ,             108.1, 29.6, formerly smoked,           0,             1,       0
+MED_017   , Medium       ,  51, Male  ,            1,             0, Yes         , Govt_job     , Rural         ,             111.6, 25.8, formerly smoked,           1,             0,       1
+MED_018   , Medium       ,  46, Male  ,            0,             0, No          , Govt_job     , Urban         ,             125.0, 26.4, never smoked   ,           1,             0,       0
+MED_019   , Medium       ,  50, Female,            1,             0, No          , Self-employed, Urban         ,             118.3, 26.1, smokes         ,           0,             1,       0
+MED_020   , Medium       ,  64, Female,            0,             0, No          , Private      , Urban         ,             135.7, 27.6, smokes         ,           0,             1,       0
+MED_021   , Medium       ,  51, Female,            1,             0, No          , Govt_job     , Urban         ,             136.3, 26.3, smokes         ,           0,             1,       0
+MED_022   , Medium       ,  64, Male  ,            0,             1, Yes         , Govt_job     , Rural         ,             114.1, 26.5, never smoked   ,           1,             0,       1
+MED_023   , Medium       ,  50, Male  ,            0,             1, No          , Govt_job     , Rural         ,             120.4, 27.0, smokes         ,           1,             0,       0
+MED_024   , Medium       ,  49, Male  ,            1,             0, No          , Self-employed, Urban         ,             127.7, 26.3, never smoked   ,           1,             0,       0
+MED_025   , Medium       ,  59, Male  ,            0,             0, No          , Private      , Urban         ,             106.7, 26.1, formerly smoked,           1,             0,       0
+HIGH_001  , High         ,  72, Female,            1,             1, Yes         , Retired      , Rural         ,             168.1, 30.5, never smoked   ,           0,             1,       1
+HIGH_002  , High         ,  65, Female,            0,             1, No          , Private      , Urban         ,             150.2, 29.7, smokes         ,           0,             1,       0
+HIGH_003  , High         ,  71, Male  ,            0,             1, No          , Self-employed, Urban         ,             159.9, 30.1, never smoked   ,           1,             0,       0
+HIGH_004  , High         ,  65, Male  ,            1,             1, No          , Retired      , Rural         ,             179.9, 29.9, formerly smoked,           1,             0,       0
+HIGH_005  , High         ,  66, Female,            1,             0, Yes         , Retired      , Rural         ,             160.1, 28.4, formerly smoked,           0,             1,       1
+HIGH_006  , High         ,  69, Male  ,            0,             1, No          , Private      , Urban         ,             153.8, 32.4, formerly smoked,           1,             0,       0
+HIGH_007  , High         ,  78, Female,            0,             1, Yes         , Private      , Rural         ,             145.8, 31.4, formerly smoked,           0,             1,       1
+HIGH_008  , High         ,  70, Male  ,            1,             0, No          , Private      , Urban         ,             149.7, 32.7, never smoked   ,           1,             0,       0
+HIGH_009  , High         ,  75, Female,            1,             1, No          , Private      , Rural         ,             154.8, 29.7, formerly smoked,           0,             1,       0
+HIGH_010  , High         ,  70, Male  ,            0,             0, Yes         , Retired      , Urban         ,             154.7, 32.4, never smoked   ,           1,             0,       1
+HIGH_011  , High         ,  70, Female,            1,             0, Yes         , Self-employed, Urban         ,             156.0, 33.7, formerly smoked,           0,             1,       1
+HIGH_012  , High         ,  65, Male  ,            0,             1, Yes         , Private      , Urban         ,             146.0, 31.6, formerly smoked,           1,             0,       1
+HIGH_013  , High         ,  77, Male  ,            0,             1, Yes         , Self-employed, Rural         ,             174.3, 30.3, formerly smoked,           1,             0,       1
+HIGH_014  , High         ,  68, Female,            1,             1, No          , Private      , Rural         ,             140.7, 31.6, smokes         ,           0,             1,       0
+HIGH_015  , High         ,  67, Male  ,            0,             0, Yes         , Self-employed, Rural         ,             153.9, 28.7, never smoked   ,           1,             0,       1
+HIGH_016  , High         ,  58, Male  ,            1,             0, No          , Private      , Rural         ,             167.6, 30.7, smokes         ,           1,             0,       0
+HIGH_017  , High         ,  67, Female,            1,             0, Yes         , Private      , Rural         ,             173.5, 32.7, smokes         ,           0,             1,       1
+HIGH_018  , High         ,  67, Female,            1,             1, Yes         , Self-employed, Rural         ,             177.0, 34.1, never smoked   ,           0,             1,       1
+HIGH_019  , High         ,  52, Male  ,            1,             1, Yes         , Private      , Urban         ,             149.1, 29.2, never smoked   ,           1,             0,       1
+HIGH_020  , High         ,  65, Male  ,            1,             1, No          , Retired      , Rural         ,             162.2, 31.7, never smoked   ,           1,             0,       0
+HIGH_021  , High         ,  51, Female,            1,             1, Yes         , Private      , Rural         ,             179.9, 34.8, smokes         ,           0,             1,       1
+HIGH_022  , High         ,  54, Male  ,            1,             1, Yes         , Retired      , Urban         ,             176.0, 32.4, smokes         ,           1,             0,       1
+HIGH_023  , High         ,  58, Female,            1,             1, No          , Retired      , Rural         ,             151.2, 32.9, smokes         ,           0,             1,       0
+HIGH_024  , High         ,  65, Female,            1,             0, Yes         , Private      , Urban         ,             175.9, 34.2, formerly smoked,           0,             1,       1
+HIGH_025  , High         ,  50, Female,            1,             0, No          , Retired      , Urban         ,             165.7, 28.6, smokes         ,           0,             1,       0
+VHIGH_001 , Very High    ,  77, Male  ,            1,             1, No          , Retired      , Rural         ,             235.0, 36.7, formerly smoked,           1,             0,       0
+VHIGH_002 , Very High    ,  72, Male  ,            1,             1, No          , Retired      , Urban         ,             206.1, 39.4, formerly smoked,           1,             0,       0
+VHIGH_003 , Very High    ,  87, Male  ,            1,             1, No          , Retired      , Rural         ,             191.3, 35.5, formerly smoked,           1,             0,       0
+VHIGH_004 , Very High    ,  72, Female,            1,             1, No          , Retired      , Urban         ,             225.6, 32.2, smokes         ,           0,             1,       0
+VHIGH_005 , Very High    ,  70, Male  ,            1,             1, Yes         , Retired      , Rural         ,             181.3, 34.9, smokes         ,           1,             0,       1
+VHIGH_006 , Very High    ,  85, Male  ,            1,             1, Yes         , Retired      , Urban         ,             232.3, 36.5, smokes         ,           1,             0,       1
+VHIGH_007 , Very High    ,  76, Male  ,            1,             0, No          , Retired      , Urban         ,             230.5, 33.1, smokes         ,           1,             0,       0
+VHIGH_008 , Very High    ,  85, Male  ,            1,             1, No          , Retired      , Urban         ,             186.6, 33.7, smokes         ,           1,             0,       0
+VHIGH_009 , Very High    ,  83, Male  ,            1,             1, Yes         , Retired      , Urban         ,             221.3, 39.8, formerly smoked,           1,             0,       1
+VHIGH_010 , Very High    ,  88, Female,            1,             1, Yes         , Retired      , Urban         ,             242.4, 36.3, formerly smoked,           0,             1,       1
+VHIGH_011 , Very High    ,  71, Male  ,            1,             1, Yes         , Retired      , Rural         ,             204.5, 36.5, smokes         ,           1,             0,       1
+VHIGH_012 , Very High    ,  84, Female,            1,             1, No          , Retired      , Rural         ,             214.5, 32.0, smokes         ,           0,             1,       0
+VHIGH_013 , Very High    ,  85, Female,            1,             0, No          , Retired      , Rural         ,             199.7, 30.2, smokes         ,           0,             1,       0
+VHIGH_014 , Very High    ,  86, Male  ,            1,             1, Yes         , Retired      , Rural         ,             183.1, 39.9, smokes         ,           1,             0,       1
+VHIGH_015 , Very High    ,  83, Female,            1,             0, Yes         , Retired      , Rural         ,             244.0, 33.7, formerly smoked,           0,             1,       1
+VHIGH_016 , Very High    ,  78, Male  ,            1,             1, No          , Retired      , Rural         ,             246.7, 33.3, smokes         ,           1,             0,       0
+VHIGH_017 , Very High    ,  83, Male  ,            1,             0, No          , Retired      , Rural         ,             247.7, 39.6, formerly smoked,           1,             0,       0
+VHIGH_018 , Very High    ,  70, Female,            1,             1, Yes         , Retired      , Urban         ,             185.3, 33.1, formerly smoked,           0,             1,       1
+VHIGH_019 , Very High    ,  70, Male  ,            1,             0, No          , Retired      , Urban         ,             202.2, 31.7, smokes         ,           1,             0,       0
+VHIGH_020 , Very High    ,  79, Male  ,            1,             1, Yes         , Retired      , Urban         ,             245.5, 37.0, smokes         ,           1,             0,       1
+VHIGH_021 , Very High    ,  77, Male  ,            1,             1, Yes         , Retired      , Rural         ,             184.9, 32.1, smokes         ,           1,             0,       1
+VHIGH_022 , Very High    ,  84, Male  ,            1,             1, No          , Retired      , Urban         ,             249.3, 31.4, smokes         ,           1,             0,       0
+VHIGH_023 , Very High    ,  79, Female,            1,             0, Yes         , Retired      , Urban         ,             241.4, 37.4, formerly smoked,           0,             1,       1
+VHIGH_024 , Very High    ,  70, Female,            1,             0, No          , Retired      , Urban         ,             189.6, 37.1, formerly smoked,           0,             1,       0
+VHIGH_025 , Very High    ,  76, Female,            1,             1, No          , Retired      , Rural         ,             200.6, 38.1, formerly smoked,           0,             1,       0
+EDGE_001  , Edge Case    ,  25, Male  ,            1,             1, No          , Private      , Urban         ,             200.0, 35.0, smokes         ,           1,             0,       0
+EDGE_002  , Edge Case    ,  95, Female,            0,             0, Yes         , Retired      , Rural         ,              85.0, 22.0, never smoked   ,           0,             1,       1
+EDGE_003  , Edge Case    ,  30, Female,            0,             0, Yes         , Self-employed, Urban         ,              95.0, 45.0, never smoked   ,           0,             1,       1

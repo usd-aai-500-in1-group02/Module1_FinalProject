@@ -1,0 +1,28 @@
+
+CALIBRATED STROKE PREDICTION MODEL
+===================================
+
+Best Calibration Method: Isotonic
+Calibration Improvement: ECE reduced from 0.3961 to 0.0021
+
+Usage:
+------
+import joblib
+calibrated_model = joblib.load('saved_model/stroke_prediction_calibrated.pkl')
+
+# Make calibrated predictions
+probabilities = calibrated_model.predict_proba(X)[:, 1]
+
+These probabilities are now well-calibrated for clinical use!
+
+Performance:
+-----------
+Original ECE: 0.3961
+Calibrated ECE: 0.0021
+ROC-AUC maintained: 0.8093
+
+Clinical Interpretation:
+-----------------------
+- Probabilities now accurately reflect true stroke risk
+- Safe to use percentages for clinical decision-making
+- Improved reliability for risk communication to patients
