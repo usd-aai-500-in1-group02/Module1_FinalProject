@@ -85,3 +85,33 @@ Build an AI-powered pipeline that leverages patient demographics, medical histor
 - World Health Organization (WHO) and Centers for Disease Control and Prevention (CDC) reports on global stroke burden and epidemiology.
 - Original Dataset Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software with proper attribution.
+
+Please take a look at the full license in the [LICENSE](LICENSE) file.
+
+© 2025 Group 2 — Prashant Khare, Riyaz Khorasi, Sourangshu Pal. All rights reserved.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community to make this project even better!
+
+If you'd like to contribute:
+
+1. **Fork** the repository
+2. **Create a branch** (`git checkout -b feature/your-feature`)
+3. **Commit your changes** (`git commit -am 'Add your feature'`)
+4. **Push to the branch** (`git push origin feature/your-feature`)
+5. **Open a Pull Request**
+
+Please ensure your code is clean, documented, and passes any existing tests (if applicable).
+
+---
+
+⭐ If you like this project, **give it a star** and **fork it** to support and build on it! 
+
+
