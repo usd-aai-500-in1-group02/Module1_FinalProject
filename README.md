@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 
 
-A comprehensive, AI-powered project designed to predict the likelihood of a stroke using medical and demographic data. This work emphasizes the importance of early risk detection, data quality, and model robustness—vital in proactive healthcare.
+A comprehensive, AI-powered project designed to predict the likelihood of a stroke using medical and demographic data. This work emphasizes the importance of early risk detection, data quality, and model robustness, which are vital in proactive healthcare.
 
 
 ## 🧠 Problem Statement
@@ -71,6 +71,25 @@ Build an AI-powered pipeline that leverages patient demographics, medical histor
 - **BMI** and **glucose level** offer additional predictive power.
 - **Smoking status** shows meaningful stratification of risk.
 - Severe **class imbalance** (19.5:1) requires targeted mitigation strategies.
+
+## 🗂️ Project Structure
+├── data/ # Raw and processed data files
+├── notebooks/ # Jupyter notebooks for EDA, modeling, evaluation
+├── src/ # Source code (data cleaning, feature engineering, modeling)
+│ ├── preprocessing.py
+│ ├── feature_engineering.py
+│ ├── model_training.py
+│ └── evaluation.py
+├── models/ # Saved trained models
+├── reports/ # Figures, charts, evaluation reports
+├── requirements.txt # Dependencies
+└── README.md
+
+
+## 👥 Contributors
+1. Prashant Khare 
+2. Riyaz Khorasi - https://github.com/Riyazmk1995
+3. Sourangshu Pal - https://github.com/sourangshupal
 
 ## 📚 References
 - World Health Organization (WHO) and Centers for Disease Control and Prevention (CDC) reports on global stroke burden and epidemiology.
