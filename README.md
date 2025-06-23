@@ -72,18 +72,8 @@ Build an AI-powered pipeline that leverages patient demographics, medical histor
 - **Smoking status** shows meaningful stratification of risk.
 - Severe **class imbalance** (19.5:1) requires targeted mitigation strategies.
 
-## 🗂️ Project Structure
-├── data/ # Raw and processed data files
-├── notebooks/ # Jupyter notebooks for EDA, modeling, evaluation
-├── src/ # Source code (data cleaning, feature engineering, modeling)
-│ ├── preprocessing.py
-│ ├── feature_engineering.py
-│ ├── model_training.py
-│ └── evaluation.py
-├── models/ # Saved trained models
-├── reports/ # Figures, charts, evaluation reports
-├── requirements.txt # Dependencies
-└── README.md
+## 🗂️ Project Folder Structure
+
 
 
 ## 👥 Contributors
